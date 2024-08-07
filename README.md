@@ -48,4 +48,4 @@ To test your code, implement the following in the __test.js__ file.
    `Employee` was invoked function-style by the `setTimeout` after 3
    seconds.</details>
    Solve the problem using `bind` to make sure that "John Wick is a Dog Lover"
-   will be printed to the terminal after 3 seconds.
+   will be printed to the terminal after 3 seconds.z
